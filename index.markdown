@@ -14,6 +14,6 @@ Hi, I’m currently pursuing a Master of Arts in Economics at the University of 
 ## Contact
 
 Email: [{{ site.email }}](mailto:{{ site.email }})  
-School: [{{ site.school_email }}](mailto:{{ site.school_email }})  
+School Email: [{{ site.school_email }}](mailto:{{ site.school_email }})  
 GitHub: [{{ site.github_username }}](https://github.com/{{ site.github_username }})
 
